@@ -25,6 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>클라우트타입 웨비나 #01</p>
+        <p>지금도 되나?</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
